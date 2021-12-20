@@ -1,2 +1,2 @@
-# ATOMPAW-PBE-JTHv1.1-UPF
-JTH PBE scalar-relativistic table version 1.1 
+# ATOMPAW-LDA-JTHv1.1-UPF
+JTH LDA scalar-relativistic table version 1.1 
