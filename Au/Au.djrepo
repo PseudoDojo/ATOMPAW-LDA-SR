@@ -1,0 +1,14 @@
+{
+"hints": {
+"high": {
+"ecut": 17.50
+},
+"low": {
+"ecut": 15.00
+},
+"normal": {
+"ecut": 15.00
+}
+},
+"md5": "cefb6a3792f02a78c408da6b7590d6f7"
+}

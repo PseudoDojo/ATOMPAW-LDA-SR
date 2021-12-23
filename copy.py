@@ -93,7 +93,7 @@ elements = ['Ag',
 'Zr']
 
 for ii in np.arange(100):
-  os.system('mkdir '+str(elements[ii]))
+#  os.system('mkdir '+str(elements[ii]))
   os.system('mv '+str(elements[ii])+'.*  '+str(elements[ii])+'/')
 
 
