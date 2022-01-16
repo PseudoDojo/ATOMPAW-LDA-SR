@@ -101,7 +101,7 @@ elements = ['Ag',
 #   os.system('cd '+str(elements[ii])+'/ && git mv '+str(elements[ii])+'.GGA_PBE-JTH.xml '+str(elements[ii])+'_std.xml && cd ../')
 
 for ii in np.arange(100):
-  exec_str = 'cd '+str(elements[ii])+'/ && cp '+str(elements[ii])+'_std.upf '+str(elements[ii])+'_str.upf && cd ../'
+  exec_str = 'cd '+str(elements[ii])+'/ && cp '+str(elements[ii])+'_std.xml '+str(elements[ii])+'_str.xml && cd ../'
   # print(exec_str)
   os.system(exec_str)
 
